@@ -1,0 +1,2 @@
+hello my name is Aditya i am practicing git commands
+removed and added again 
